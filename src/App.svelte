@@ -10,7 +10,7 @@
 >
   <div class="hero min-h-screen bg-gradient-to-br from-base-100 to-base-300">
     <div
-      class="hero-content text-center bg-gradient-to-br from-base-300 to-base-100 rounded-lg p-10 border-2 border-secondary"
+      class="hero-content text-center bg-gradient-to-br from-base-300 to-base-100 rounded-lg p-6 m-4 border-2 border-secondary"
     >
       <div class="max-w-md">
         <h1 class="text-5xl font-bold">Term ends in:</h1>
