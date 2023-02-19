@@ -15,7 +15,7 @@
       <div class="max-w-md">
         <h1 class="text-5xl font-bold">Term ends in:</h1>
         <p class="py-6">
-          <Countdown target_date={new Date(2023, 1, 9, 12, 0, 0, 0)} />
+          <Countdown target_date={new Date(2023, 2, 31, 15, 20, 0, 0)} />
         </p>
       </div>
     </div>
